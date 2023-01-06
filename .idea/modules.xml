@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HerancaPolimomfismo/HerancaPolimomfismo.iml" filepath="$PROJECT_DIR$/HerancaPolimomfismo/HerancaPolimomfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoriaArrayList/MemoriaArrayList.iml" filepath="$PROJECT_DIR$/MemoriaArrayList/MemoriaArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cursoJava.iml" filepath="$PROJECT_DIR$/cursoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumaracaoComposicao/enumeracaoComposicao.iml" filepath="$PROJECT_DIR$/enumaracaoComposicao/enumeracaoComposicao.iml" />
+    </modules>
+  </component>
+</project>
