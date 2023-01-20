@@ -17,7 +17,6 @@ public class Vetor {
             vect[i] = aux;
 
         }
-
         sca.close();
 
     }
